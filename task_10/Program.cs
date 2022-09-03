@@ -1,4 +1,4 @@
-﻿int a = new Random().Next(100, 1000);
+﻿int a = new Random().Next(100, 999);
 
 int x = a % 100 / 10;
 
